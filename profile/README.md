@@ -2,12 +2,11 @@
 
 ## Information
 - [Таблица успеваемости/очередей]()
-- [Syllabus]()
-- [Do/Don'ts]()
+- [Syllabus](https://github.com/HSEjava2026/.github/blob/main/profile/syllabus.md)
+- [Do/Don'ts](https://github.com/HSEjava2026/.github/blob/main/profile/do-donts.md)
 
 ## Guides
-- [GitHub classroom - инструкция по загрузке лабоработных]()
-- [Отправка лабораторных на проверку]()
+- [GitHub classroom - инструкция по загрузке лабоработных](https://github.com/HSEjava2026/.github/blob/main/profile/guides/lab-download-guide.md)
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
 
 ## Лекции
