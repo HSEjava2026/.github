@@ -12,7 +12,7 @@
 ## Лекции
 [Лекции]()
 
-## Лабораторные
-- [Лабораторная 1]()
-- [Лабораторная 2]()
+## Ссылка на GitHub Classroom
+- [Лабораторная 1](https://classroom.github.com/a/MwjWMmVX)
+- [Лабораторная 2](https://classroom.github.com/a/7ecLTsyu)
 
