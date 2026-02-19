@@ -10,7 +10,7 @@
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
 
 ## Лекции
-[Лекции]()
+[Лекции](https://github.com/HSEjava2026/.github/tree/main/profile/lec)
 
 ## Ссылка на GitHub Classroom
 - [Лабораторная 1](https://classroom.github.com/a/MwjWMmVX)
