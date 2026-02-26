@@ -9,8 +9,9 @@
 - [GitHub classroom - инструкция по загрузке лабоработных](https://github.com/HSEjava2026/.github/blob/main/profile/guides/lab-download-guide.md)
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
 
-## Лекции
-[Лекции](https://github.com/HSEjava2026/.github/tree/main/profile/lec)
+## [Лекции](https://github.com/HSEjava2026/.github/tree/main/profile/lec)
+
+## [Лабоработные](https://github.com/HSEjava2026/.github/tree/main/profile/labs)
 
 ## Ссылка на GitHub Classroom
 - [Лабораторная 1](https://classroom.github.com/a/MwjWMmVX)
