@@ -1,7 +1,7 @@
 # Программирование на языке Java 2026
 
 ## Information
-- [Таблица успеваемости/очередей]()
+- [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1eSKqvhCZtIz3IGTljlJS2TZ4jvYgBkJ-9FRmqZFFcXE/edit?usp=sharing)
 - [Syllabus](https://github.com/HSEjava2026/.github/blob/main/profile/syllabus.md)
 - [Do/Don'ts](https://github.com/HSEjava2026/.github/blob/main/profile/do-donts.md)
 
