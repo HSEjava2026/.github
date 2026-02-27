@@ -16,7 +16,7 @@
 ## Ссылка на GitHub Classroom
 - [Лабораторная 1](https://classroom.github.com/a/MwjWMmVX)
 - [Лабораторная 2](https://classroom.github.com/a/7ecLTsyu)
-- [Лабораторная 3](https://classroom.github.com/a/7ecLTsyu)
-- [Лабораторная 4](https://classroom.github.com/a/xhTAZXU-)
+- [Лабораторная 3](https://classroom.github.com/a/xhTAZXU-)
+- [Лабораторная 4]()
 - [Лабораторная 5]()
 
