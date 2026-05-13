@@ -20,4 +20,5 @@
 - [Лабораторная 4](https://classroom.github.com/a/27FF6PlF)
 - [Лабораторная 5](https://classroom.github.com/a/tbHrG6o1)
 - [Лабораторная 6](https://classroom.github.com/a/YBy3BUCi)
+- [Лабораторная 7](https://classroom.github.com/a/GHLlfAsa)
 
