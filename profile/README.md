@@ -22,3 +22,4 @@
 - [Лабораторная 6](https://classroom.github.com/a/YBy3BUCi)
 - [Лабораторная 7](https://classroom.github.com/a/GHLlfAsa)
 
+## [Билеты к экзамену](https://github.com/HSEjava2026/.github/blob/main/profile/lec/exam.md)
